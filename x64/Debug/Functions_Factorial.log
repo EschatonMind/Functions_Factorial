@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Functions_Factorial\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Functions_Factorial.vcxproj -> D:\Reza\Game Projects\C++\Basic\Functions_Factorial\x64\Debug\Functions_Factorial.exe
